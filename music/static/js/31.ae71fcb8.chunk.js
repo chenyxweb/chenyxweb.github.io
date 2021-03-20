@@ -1,0 +1,1 @@
+(this["webpackJsonpreact-template"]=this["webpackJsonpreact-template"]||[]).push([[31],{579:function(t,e,c){"use strict";c.r(e);c(0);var r=c(9);e.default=function(){return Object(r.jsx)("div",{children:"Artist"})}}}]);
